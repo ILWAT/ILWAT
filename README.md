@@ -2,7 +2,7 @@
 
 I'm studying mobile app development
 
-## 🌱 I’m currently learning ...
+## 🌱 I’m currently using or learning ...
 
 🛠<img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2b%2b&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"/></a>
