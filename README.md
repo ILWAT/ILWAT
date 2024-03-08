@@ -26,9 +26,9 @@ Low Level Skill:</br>
 </div>
 
 ## 🏃 learning curves
-- Sangmyung Univ. Computer Science (2018. 03. ~ 2024. 02.)
-- UMC(University MakeUs Challenge) 2nd, 3rd iOS Developer Challenger (2022. 03. ~ 2023. 02.)
 - SeSACxMemolease iOS app Developer debut course plus 3rd learner (2023. 07. ~ 2024. 01.)
+- UMC(University MakeUs Challenge) 2nd, 3rd iOS Developer Challenger (2022. 03. ~ 2023. 02.)
+- Sangmyung Univ. Computer Science (2018. 03. ~ 2024. 02.)
 
 <!--
 ## Released APP.
