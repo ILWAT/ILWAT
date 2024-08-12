@@ -22,8 +22,11 @@ Low Level Skill:</br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ILWAT)](https://github.com/ILWAT)
-
 </div>
+
+## 💼 Career
+- [Pathfinder Company](https://dogtrapathfinder.com/) [(With Dogtra)](https://dogtra.com/) (2024. 6. ~ )
+  - Mobile Application Developer
 
 ## 🏃 learning curves
 - SeSACxMemolease iOS app Developer debut course plus 3rd learner (2023. 07. ~ 2024. 01.)
