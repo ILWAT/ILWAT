@@ -26,7 +26,7 @@ Low Level Skill:</br>
 
 ## 💼 Career
 - [Pathfinder Company](https://dogtrapathfinder.com/) [(With Dogtra)](https://dogtra.com/) (2024. 6. ~ )
-  - Mobile Application Developer
+  - [Mobile Application Developer](https://apps.apple.com/us/developer/dogtra/id887768215)
 
 ## 🏃 learning curves
 - SeSACxMemolease iOS app Developer debut course plus 3rd learner (2023. 07. ~ 2024. 01.)
