@@ -20,6 +20,7 @@ Low Level Skill:</br>
 <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/dart-0175C2?style=plastic&logo=dart&logoColor=white"/></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ILWAT)](https://github.com/ILWAT)
 </div>
